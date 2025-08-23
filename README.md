@@ -1,6 +1,6 @@
 # Mod 3 Project – Theme Park Analytics
 ##### By Debo Odutola
-
+https://www.shutterstock.com/image-vector/vector-urban-concept-background-night-city-1237193647
 ## 📂 Project Overview
 This project analyzes a theme park’s guest behavior using a star-schema database (`themepark.db`).  
 The goal was to prepare clean data, run exploratory SQL, and generate Python visuals to provide actionable insights for three stakeholder groups: **General Manager (GM)**, **Operations**, and **Marketing**.
