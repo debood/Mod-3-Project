@@ -1,4 +1,5 @@
 # Mod 3 Project – Theme Park Analytics
+##### By Debo Odutola
 
 ## 📂 Project Overview
 This project analyzes a theme park’s guest behavior using a star-schema database (`themepark.db`).  
